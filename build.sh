@@ -7,7 +7,6 @@ lb config \
   --archive-areas "main contrib non-free non-free-firmware" \
   --security false \
   --apt-recommends false \
-  --apt-indices false \
   --mirror-bootstrap "http://deb.debian.org/debian/" \
   --mirror-chroot "http://deb.debian.org/debian/" \
   --mirror-binary "http://deb.debian.org/debian/" \
